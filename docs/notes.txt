@@ -1,0 +1,4 @@
+#setup instructions: https://docs.google.com/document/d/11CbAl3-fKs5w4qyF4x3Go8tcY2_hgPlgmx10IrjrcBk/edit
+#codealong: seiu technologists conference, 2024-07-22
+#downgraded python, numpy
+#learned how to pronounce numpy :upside_down_smiling_face:
